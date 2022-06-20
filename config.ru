@@ -1,2 +1,2 @@
-require "./book_viewer_debugging"
+require "./book_viewer"
 run Sinatra::Application
